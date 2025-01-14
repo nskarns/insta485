@@ -1,5 +1,5 @@
 # Insta485
-This was an Instagram clone An Instagram clone implemented with client-side dynamic pages. First created a static site generator, then a server-side dynamic page, and finally created the client-side dynamic page. 
+This was an Instagram clone implemented with client-side dynamic pages. First created a static site generator, then a server-side dynamic page, and finally created the client-side dynamic page. 
 
 ## Development Process
 Through the development of the client-side dynamic page, the user could interact with the Instagram clone while not having to have to page reload upon certain action, such as liking a post, commenting, following someone, and more.
