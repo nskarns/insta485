@@ -8,3 +8,4 @@ To complete the project to its full, my team and I developed many client-side dy
 
 ## Example Of Project
 The code for this project isn't available due to Honor Code policies, however a video of my team's project is in this Github repository.
+[Video Link](https://github.com/nskarns/insta485/blob/main/Insta485%20Overview.mp4)
